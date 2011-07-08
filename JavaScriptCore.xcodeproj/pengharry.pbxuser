@@ -1,0 +1,110 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 932F5B3E0822A1C700736975 /* JavaScriptCore */;
+		codeSenseManager = 1C96976C13B2D46C004D2E9F /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					460,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 330486852;
+			PBXWorkspaceStateSaveDate = 330486852;
+		};
+		perUserProjectItems = {
+			1C9698B613B2D6F4004D2E9F /* XCBuildMessageTextBookmark */ = 1C9698B613B2D6F4004D2E9F /* XCBuildMessageTextBookmark */;
+			1C9698B713B2D6F4004D2E9F /* PBXTextBookmark */ = 1C9698B713B2D6F4004D2E9F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1C96976B13B2D46C004D2E9F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	1C61516A0EBAC7A00031376F /* ProfilerServer.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {823, 1651}}";
+			sepNavSelRange = "{1496, 0}";
+			sepNavVisRange = "{1433, 165}";
+		};
+	};
+	1C96976B13B2D46C004D2E9F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1C96976C13B2D46C004D2E9F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1C9698B613B2D6F4004D2E9F /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Foundation/NSDistributedNotificationCenter.h: No such file or directory";
+		fRef = 1C61516A0EBAC7A00031376F /* ProfilerServer.mm */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 33;
+		rType = 1;
+	};
+	1C9698B713B2D6F4004D2E9F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1C61516A0EBAC7A00031376F /* ProfilerServer.mm */;
+		name = "ProfilerServer.mm: 34";
+		rLen = 31;
+		rLoc = 1516;
+		rType = 0;
+		vrLen = 1301;
+		vrLoc = 573;
+	};
+	65FB3F6609D11E9100F49DEB /* Derived Sources */ = {
+		activeExec = 0;
+	};
+	932F5B3E0822A1C700736975 /* JavaScriptCore */ = {
+		activeExec = 0;
+	};
+}
