@@ -16,9 +16,9 @@ Right now, any methods that you expose to JavaScript must be written by yourself
 
 As the project progresses many more features will be added to the list. The main priorities of this project are to make these features available to JavaScript as an API:
 
-Mimic canvas-tag methods to output graphics via OpenGL.
-Mimic audio-tag methods to output sound via OpenAL.
-Provide a clean and easy networking API to JavaScript to utilise native sockets capability.
+* Mimic canvas-tag methods to output graphics via OpenGL.
+* Mimic audio-tag methods to output sound via OpenAL.
+* Provide a clean and easy networking API to JavaScript to utilise native sockets capability.
 
 ## License
 
