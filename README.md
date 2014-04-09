@@ -1,5 +1,13 @@
 # iOS JavaScript to Objective-C Bridge.
 
+## As of 4/8/2014 (and some time before), this library is redundant
+##
+## It is not being supported
+##
+## The javascriptcore framework in iOS 7 provides a supported replacement
+##
+
+
 ## What Does It Do?
 
 Enables method calls and communication between JavaScript & Objective-C. Allows you to write application logic in JavaScript and control native device features via JS to Obj-C calls.
